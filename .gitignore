@@ -1,0 +1,12 @@
+tfplan.out
+terraform.tfstate
+terraform.tfstate.backup
+email_file.txt
+.terraform.lock.hcl
+.terraform.tfstate.lock.info
+.git
+pretf_output.txt
+list_file.txt
+.terraform
+accountpermissions.tf.json
+__pycache__

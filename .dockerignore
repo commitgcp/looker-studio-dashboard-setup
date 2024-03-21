@@ -1,0 +1,12 @@
+tfplan.out
+terraform.tfstate
+terraform.tfstate*
+email_file.txt
+.terraform*
+pretf_output.txt
+list_file.txt
+.terraform
+accountpermissions.tf.json
+cloudbuild.yaml
+.git*
+__pycache__

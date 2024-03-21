@@ -1,0 +1,12 @@
+streamlit
+google-cloud-billing
+google-cloud-iam
+google-cloud-datastore
+google-cloud-service-usage
+virtualenv
+google-cloud-bigquery
+google-api-core
+colorama
+google-api-python-client
+
+
